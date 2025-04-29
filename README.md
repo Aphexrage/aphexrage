@@ -13,3 +13,13 @@
     <img align="center" alt="html5" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
+---
+🎓 Profissional em início de carreira com sólida base técnica e acadêmica, cursando Análise e Desenvolvimento de Sistemas, com formação técnica em programação Java, redes e manutenção de computadores.
+
+💡 Experiência em desenvolvimento de sistemas, automação de processos, prototipagem de soluções e análise de dados com Power BI e Python.
+
+🧠 Atuação como líder de equipes multidisciplinares em projetos de melhoria operacional e capacitação de colaboradores.
+
+🌐 Vivência internacional no setor Market IT LATAM da Unilever, apoiando iniciativas de tecnologia e inteligência de mercado.
+
+📊 Habilidades: Python | Java | Power BI | SQL | Bancos de Dados | AWS | AZURE | Pacote Office
