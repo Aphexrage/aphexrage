@@ -22,4 +22,4 @@
 
 🌐 Vivência internacional no setor Market IT LATAM da Unilever, apoiando iniciativas de tecnologia e inteligência de mercado.
 
-🤖 Interesse e prática no desenvolvimento de chatbots e automações inteligentes para melhoria da comunicação e eficiência operaciona
+🤖 Interesse e prática no desenvolvimento de chatbots e automações inteligentes
