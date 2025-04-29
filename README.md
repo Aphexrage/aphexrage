@@ -22,4 +22,4 @@
 
 🌐 Vivência internacional no setor Market IT LATAM da Unilever, apoiando iniciativas de tecnologia e inteligência de mercado.
 
-📊 Habilidades: Python | Java | Power BI | SQL | Bancos de Dados | AWS | AZURE | Pacote Office
+🤖 Interesse e prática no desenvolvimento de chatbots e automações inteligentes para melhoria da comunicação e eficiência operaciona
