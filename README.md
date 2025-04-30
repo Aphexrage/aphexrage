@@ -1,3 +1,5 @@
+![Descrição do GIF](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
+
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
 
 <h4 align="left">Atualmente trabalho na Unilever Brasil LTDA como Assistente de TI e BI, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
