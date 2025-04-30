@@ -16,7 +16,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <img align="right" alt="coding-gif" width="290" src="https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif">
 
@@ -35,7 +35,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
 <br>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <h3 align="center">Trabalhando atualmente</h3>
 <div align="center" style="display: flex; gap: 10px;">
