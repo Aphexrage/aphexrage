@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="coding-gif" width="290" src="https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif">
+<img align="right" alt="coding-gif" width="270" src="https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif">
 
 <h3 align="left">📖 Sobre mim:</h3>
 
