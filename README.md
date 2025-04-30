@@ -1,18 +1,17 @@
-![Descrição do GIF](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
-
-</h1>
-<h1 align="center">Olá, eu sou o Gustavo!</h1>
+<h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
 
 <h4 align="left">Atualmente trabalho na Unilever Brasil LTDA como Assistente de TI e BI, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
 
-<a href="mailto:aphexragedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+<div align="center"><br/>
+  <a href="mailto:aphexragedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+</div>
 
 ---
 
 <img align="right" alt="coding-gif" width="290" src="https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif">
 
-<h3 align="left">Sobre mim:</h3>
+<h3 align="left">📖 Sobre mim:</h3>
 
 <h4 align="left">
   🎓 Profissional em início de carreira com sólida base técnica e acadêmica, cursando Análise e Desenvolvimento de Sistemas, com formação técnica em programação Java, redes e manutenção de computadores.</br>
@@ -26,7 +25,7 @@
 
 ---
 
-<h3 align="center">Github Status</h3>
+<h3 align="center">📊 Github Status</h3>
 <br>
 <div align="center">
 <img width="380" src="https://github-readme-stats.vercel.app/api?username=Aphexrage&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
@@ -36,7 +35,7 @@
 
 <br></br>
 
-<h3 align="center">Linguagens e ferramentas</h3>
+<h3 align="center">🔧 Linguagens e ferramentas</h3>
 
 <br>
 
