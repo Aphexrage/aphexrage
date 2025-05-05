@@ -7,6 +7,9 @@
 <div align="center"><br/>
   <a href="mailto:aphexragedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+  <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aphexrage&"  />
+</div>
 </div>
 
 ---
