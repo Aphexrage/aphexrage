@@ -76,7 +76,7 @@
 <br></br>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/20/b7/01/20b701f1831a13807327d774342445e8.gif" alt="Descrição do GIF"/>
+  <img src="https://editor.analyticsvidhya.com/uploads/112801.gif" alt="Descrição do GIF" width="800"/>
 </p>
 
 <br>
