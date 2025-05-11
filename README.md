@@ -84,7 +84,7 @@
 
 <br>
 
-![Descrição do GIF](https://i.pinimg.com/originals/7d/04/0e/7d040e94931427709008aaeda14db9c8.gif)
+<!-- ![Descrição do GIF](https://i.pinimg.com/originals/7d/04/0e/7d040e94931427709008aaeda14db9c8.gif) -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
