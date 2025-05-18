@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
 
-<h4 align="left">Atualmente trabalho na Unilever Brasil LTDA como Assistente de TI e BI, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
+<h4 align="left">Atualmente trabalho na Unilever Brasil LTDA como Assistente de TI e Data Science, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
 
 <div align="center"><br/>
   <a href="mailto:aphexragedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
@@ -34,9 +34,7 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aphexrage&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aphexrage&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-<h3 align="center">🔧 Techs com experiencia profissional</h3>
-
-<br>
+<h3 align="center">🔧 Experiência profissional com</h3>
 
 <div align="center">
   <img src="https://store-images.s-microsoft.com/image/apps.60707.161bd463-9f0d-4108-88b5-1fcd680cb12f.fe1019b0-9c16-4674-93d3-27881e9d721f.a26ff6e5-07e4-4c75-92b8-2ce71f88467b" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
@@ -83,4 +81,3 @@
 <!-- ![Descrição do GIF](https://i.pinimg.com/originals/7d/04/0e/7d040e94931427709008aaeda14db9c8.gif) -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
