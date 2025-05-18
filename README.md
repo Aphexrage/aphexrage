@@ -1,9 +1,9 @@
 <!-- ![Descrição do GIF](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif) -->
 ![Descrição do GIF](https://64.media.tumblr.com/b68dfe299f50bb07f90ca487a2c6e043/18661f1731e46ef1-8a/s1280x1920/54563658805615662d205b76913a8a2175eb1cc1.gif)
 
-<h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
+<h1 align="center">👋 Salve, eu sou o Gustavo!</h1>
 
-<h4 align="center">Atualmente trabalho na Unilever Brasil LTDA como Assistente de TI e Data Science, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
+<h4 align="center">Estou tualmente trabalho na Unilever Brasil LTDA como Assistente de TI e Data Science, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
 
 <div align="center"><br/>
   <a href="mailto:aphexragedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
@@ -55,7 +55,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHhYIgLQICyLdxxt1uEcA4mTUM8-kNrMMMQA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pvzKui2p5LEMMr2J7o6AERuVxMAjkKHNAQ&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQg_KuPiZ22R_01gYxZiwOUEp7s11cAR7REg&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://miro.medium.com/v2/resize:fit:774/1*LwAbo2EBULD_MrLS6vT79Q.png" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://meta-q.cdn.bubble.io/f1718125893082x625655806421663100/aws-app-icon.jpg" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZr_fCzpvLkG7vOInbfb6wxGZwWdSfFxQEw&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://ih1.redbubble.net/image.2575913921.2521/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
