@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
 
-<h4 align="left">Atualmente trabalho na Unilever Brasil LTDA como Assistente de TI e Data Science, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
+<h4 align="center">Atualmente trabalho na Unilever Brasil LTDA como Assistente de TI e Data Science, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
 
 <div align="center"><br/>
   <a href="mailto:aphexragedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
