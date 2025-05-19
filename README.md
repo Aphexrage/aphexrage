@@ -49,6 +49,8 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlq66HeESjzaeRS-HUIpzkTSA4vtqsU6DBUA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYjJum800-sDfZz-8yznUui_7lUYzeoFOcg&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://yt3.googleusercontent.com/7aMstlSvB1R2xAAOxF91vHWtAX2bhptsv6ROXPglCOyax0HKc8AATSYbqKr-10u4WvJ-e08b7Qg=s900-c-k-c0x00ffffff-no-rj" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  
 </div>
 
 <div align="center">
@@ -64,6 +66,7 @@
   <img src="https://www.logiciels.pro/wp-content/uploads/2025/03/terraform-avis-prix-fonctionnalites-alternatives.webp" style="width:50px; height:50px; border-radius:50%; margin:3px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6NCxPLGi_MIQmnA7DwXINCdm5vHiGUkygA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://i.pinimg.com/236x/ef/ff/7d/efff7d5cb146fb3ca0f62b87bd641e4d.jpg" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqo23tbzej4ll5mdkrwnd.jpg" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
 
 </div>
 
