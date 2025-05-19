@@ -1,5 +1,3 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
 <!-- ![Descrição do GIF](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif) -->
 ![Descrição do GIF](https://64.media.tumblr.com/b68dfe299f50bb07f90ca487a2c6e043/18661f1731e46ef1-8a/s1280x1920/54563658805615662d205b76913a8a2175eb1cc1.gif)
 
