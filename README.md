@@ -1,5 +1,5 @@
 <!-- ![Descrição do GIF](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif) -->
-![Descrição do GIF](https://i.pinimg.com/originals/5c/04/12/5c041234041149e7d14b21986f8c5dc8.gif)
+![Descrição do GIF](https://i.pinimg.com/originals/ef/5f/b7/ef5fb7ae1b1326643e34ce1d07954a04.gif)
 
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
 
