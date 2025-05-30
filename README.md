@@ -39,11 +39,6 @@
 
 <br></br>
 
-</div>
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=aphexrage&row=1&column=6&theme=github_dark&margin-w=15&margin-h=15"/>
-  </div>
-
 ##
 
 <h3 align="center">🔧 Experiência profissional com</h3>
