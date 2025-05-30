@@ -1,7 +1,7 @@
 <!-- ![Descrição do GIF](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif) -->
 <!-- ![Descrição do GIF](https://64.media.tumblr.com/5a34cf45b8639374f1c9205cd9336cb8/ad986e8203b27033-8a/s540x810/ef643eef41337ca73045bd83c3f594b8746f7798.gif) -->
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/afc4ee101026019.5f15da0157ee9.gif" alt="Descrição do GIF" width="1300" />
+<img src="https://64.media.tumblr.com/90d358287f95efa38e587f9ca7dfdcb7/1f630a88a8863680-78/s1280x1920/0b7de67c132d032110d0eb31c4a6085ae89a7b9c.gif" />
 
 
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
