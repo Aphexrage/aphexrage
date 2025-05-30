@@ -16,7 +16,7 @@
 </div>
 </div>
 
----
+##
 
 <img align="right" alt="coding-gif" width="270" src="https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif">
 
@@ -32,10 +32,19 @@
 
 <br>
 
----
+##
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aphexrage&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aphexrage&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
+
+<br></br>
+
+</div>
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=aphexrage&row=1&column=6&theme=github_dark&margin-w=15&margin-h=15"/>
+  </div>
+
+##
 
 <h3 align="center">🔧 Experiência profissional com</h3>
 
@@ -52,8 +61,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlq66HeESjzaeRS-HUIpzkTSA4vtqsU6DBUA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYjJum800-sDfZz-8yznUui_7lUYzeoFOcg&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
-</div>
-
+  
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHhYIgLQICyLdxxt1uEcA4mTUM8-kNrMMMQA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pvzKui2p5LEMMr2J7o6AERuVxMAjkKHNAQ&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
