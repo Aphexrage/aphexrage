@@ -6,6 +6,7 @@
 
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
 
+
 <h4 align="center">Estou tualmente trabalho na Unilever Brasil LTDA como Assistente de TI e Data Science, aplicando meus conhecimentos em tecnologia para resolver problemas de negócios e otimizar processos.</h4>
 
 <div align="center"><br/>
