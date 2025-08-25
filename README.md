@@ -1,7 +1,7 @@
-<!-- ![Descrição do GIF](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif) --->
-<!-- ![Descrição do GIF](https://64.media.tumblr.com/5a34cf45b8639374f1c9205cd9336cb8/ad986e8203b27033-8a/s540x810/ef643eef41337ca73045bd83c3f594b8746f7798.gif) -->
+![Descrição do GIF](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
+<!-- ![Descrição do GIF](https://64.media.tumblr.com/5a34cf45b8639374f1c9205cd9336cb8/ad986e8203b27033-8a/s540x810/ef643eef41337ca73045bd83c3f594b8746f7798.gif)
 
-<img align="center" alt="coding-gif" width="1500" src="https://i.pinimg.com/originals/a0/95/a2/a095a26603ed3ff8cd432fb32454931f.gif">
+<!-- <img align="center" alt="coding-gif" width="1500" src="https://i.pinimg.com/originals/a0/95/a2/a095a26603ed3ff8cd432fb32454931f.gif"> -->
 
 
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
