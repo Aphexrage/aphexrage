@@ -46,7 +46,7 @@
 
 ##
 
-<h3 align="center">🔧 Experiência profissional com</h3>
+<h3 align="center">🔧 Experiência com</h3>
 
 <div align="center">
   <img src="https://store-images.s-microsoft.com/image/apps.60707.161bd463-9f0d-4108-88b5-1fcd680cb12f.fe1019b0-9c16-4674-93d3-27881e9d721f.a26ff6e5-07e4-4c75-92b8-2ce71f88467b" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
@@ -59,20 +59,16 @@
   <img src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyuHWMd6UOi4d_oVuHTBZsGvS7kG6TFK2yQ&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlq66HeESjzaeRS-HUIpzkTSA4vtqsU6DBUA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYjJum800-sDfZz-8yznUui_7lUYzeoFOcg&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHhYIgLQICyLdxxt1uEcA4mTUM8-kNrMMMQA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pvzKui2p5LEMMr2J7o6AERuVxMAjkKHNAQ&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
-  <img src="https://miro.medium.com/v2/resize:fit:774/1*LwAbo2EBULD_MrLS6vT79Q.png" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://meta-q.cdn.bubble.io/f1718125893082x625655806421663100/aws-app-icon.jpg" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZr_fCzpvLkG7vOInbfb6wxGZwWdSfFxQEw&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://www.comset.co.uk/wp-content/uploads/2018/09/fabric-banner-2-1200x1200.png" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAJH4R87uV3Rvncs3L3urjeNESAfJGTMTrA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://yt3.googleusercontent.com/-oAx1DAiLyJxYg71Bj60nEarlrnKq6HoGhsTd_TwABhxQsBmlOfzsp2TW4tlxZD_6kFNS0uW=s900-c-k-c0x00ffffff-no-rj" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
-  <img src="https://www.logiciels.pro/wp-content/uploads/2025/03/terraform-avis-prix-fonctionnalites-alternatives.webp" style="width:50px; height:50px; border-radius:50%; margin:3px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6NCxPLGi_MIQmnA7DwXINCdm5vHiGUkygA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://yt3.googleusercontent.com/7aMstlSvB1R2xAAOxF91vHWtAX2bhptsv6ROXPglCOyax0HKc8AATSYbqKr-10u4WvJ-e08b7Qg=s900-c-k-c0x00ffffff-no-rj" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
 </div>
